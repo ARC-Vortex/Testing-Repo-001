@@ -1,0 +1,32 @@
+1. Installi GitHub Desktop
+https://desktop.github.com/
+
+2. Kui on installitud ava GitHub Desktop
+2.1 Enne seda tee GitHub veebisaidil ennem, oma Repo ära
+
+3. Sisenedes GitHub Desktopile, üleval menüüd on mitmeid valikuid
+3.1 Vali File menüü
+3.2 Vali Clone Repostry valik
+3.3 Vali oma varem tehtud Repo
+3.4 Vali süsteemist kaust kuhu kloonida
+3.5 jah
+
+4. Ava Visual Studio
+4.1 Enne installi Visual Studio, kui sa pole juba seda teinud
+https://visualstudio.microsoft.com/
+4.2 Visual Studio on mitmeid valikuid
+4.3 Vali Open A Local Folder
+4.4 Juhata ennast samasse kausta kuhu sa oma Repo kloonisid
+4.5 Ava see
+
+5.1 Tee mingi suvaline fail Visual Studios
+5.2 Vaata kas midagi muutus GitHub Desktopil
+5.3 Kui midagi lisandus tegid kõik õigesti
+5.4 Nüüd suure sinise nupul kus on Commit Changes, vajuta seda
+5.5 Pärast seda kui see sama nupp ütleb Push Origin, siis vajuta seda ka
+5.6 Nüüd mine oma veebisaidi Repole ja vaata kas midagi lisandus
+
+
+Kui kõik tuli välja siis tegid hästi =)
+
+6.1 Nüüd tee seda kõik Arch-based Linuxi peal
